@@ -1,2 +1,2 @@
 # Python-Projects
-Gaining experience with different kinds of projects with python, involving cloud/networks.
+Gaining experience with different kinds of projects with python.
