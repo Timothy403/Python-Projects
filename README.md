@@ -1,2 +1,2 @@
-# Python-Projects
-Gaining experience with different kinds of projects with python.
+# Pythonic-Projects
+Gaining experience with different kinds of projects using python.
